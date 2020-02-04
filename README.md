@@ -1,3 +1,2 @@
 # hello-world
-start from the bottom
-Becoming a coder !
+start from the bottom and becoming a coder !
